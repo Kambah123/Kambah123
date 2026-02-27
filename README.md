@@ -45,5 +45,5 @@ A Software as a Service (SaaS) solution providing risk coverage for AI agents. T
 I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out!
 
 *   **GitHub**: [Kambah123](https://github.com/Kambah123)
-*   **Email**: [Your Email Here] (Please replace with your actual email address)
-*   **LinkedIn**: [Your LinkedIn Profile Here] (Optional - add if you have one)
+*   **Email**: muserskamber@gmail.com
+*   **X (Twitter)**: [@Skambermuser](https://x.com/Skambermuser)
