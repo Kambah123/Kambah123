@@ -40,6 +40,14 @@ A Software as a Service (SaaS) solution providing risk coverage for AI agents. T
 *   **Web Technologies**: React, Node.js, Next.js
 *   **Tools & Platforms**: Git, GitHub
 
+## My GitHub Stats
+
+[![Kambah123's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kambah123&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## My Top Languages
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kambah123&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Let's Connect!
 
 I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out!
